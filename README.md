@@ -1,9 +1,9 @@
-[![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
+## TODO LIST
 
-## Build your own &lt;insert-technology-here&gt;
+- [ ] (WIP) [**C**: _Let's Build a Simple Database_](https://cstack.github.io/db_tutorial/)
 
-This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
 
+## Let's begin
 > *What I cannot create, I do not understand — Richard Feynman.*
 
 It's a great way to learn.
