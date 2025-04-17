@@ -128,7 +128,7 @@ It's a great way to learn.
 
 #### Build your own `Database`
 
-* [**C**: _Let's Build a Simple Database_](https://cstack.github.io/db_tutorial/)
+* (WIP) [**C**: _Let's Build a Simple Database_](https://cstack.github.io/db_tutorial/)
 * [**C++**: _Build Your Own Redis from Scratch_](https://build-your-own.org/redis)
 * [**C#**: _Build Your Own Database_](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
 * [**Clojure**: _An Archaeology-Inspired Database_](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
